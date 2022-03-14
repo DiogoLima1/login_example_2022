@@ -4,18 +4,23 @@ A new little Flutter project.
 
 Example pages: 
 
-Splash
+- Splash
 ![splash.png](https://raw.githubusercontent.com/DiogoLima1/login_example_2022/main/images/splash.png)
 
-Login, Forgot Password and Home.
-
+- Login
+![login.png](https://raw.githubusercontent.com/DiogoLima1/login_example_2022/main/images/login.png)
+- Forgot Password
+![forgot.png](https://raw.githubusercontent.com/DiogoLima1/login_example_2022/main/images/forgot.png)
+- Home
+![home.png](https://raw.githubusercontent.com/DiogoLima1/login_example_2022/main/images/home.png)
+![drawer.png](https://raw.githubusercontent.com/DiogoLima1/login_example_2022/main/images/drawer.png)
 Was used:
 
-cupertino_icons: ^1.0.2
-carousel_slider: ^4.0.0
-flutter_signin_button: ^2.0.0
-syncfusion_flutter_calendar: ^19.4.55
-validatorless: ^1.2.1
+- cupertino_icons: ^1.0.2
+- carousel_slider: ^4.0.0
+- flutter_signin_button: ^2.0.0
+- syncfusion_flutter_calendar: ^19.4.55
+- validatorless: ^1.2.1
 
 ## Getting Started
 

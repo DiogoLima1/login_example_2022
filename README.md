@@ -5,7 +5,7 @@ A new little Flutter project.
 Example pages: 
 
 Splash
-![splash.png](https://raw.githubusercontent.com/DiogoLima1/login_example_2022/main/images/splash.png]
+![splash.png](https://raw.githubusercontent.com/DiogoLima1/login_example_2022/main/images/splash.png)
 
 Login, Forgot Password and Home.
 

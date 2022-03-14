@@ -2,7 +2,12 @@
 
 A new little Flutter project. 
 
-Example pages: Splash, Login, Forgot Password and Home.
+Example pages: 
+
+Splash
+![splash.png](https://raw.githubusercontent.com/DiogoLima1/login_example_2022/images/splash.png]
+
+Login, Forgot Password and Home.
 
 Was used:
 

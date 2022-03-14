@@ -5,15 +5,21 @@ A new little Flutter project.
 Example pages: 
 
 - Splash
+
 ![splash.png](https://raw.githubusercontent.com/DiogoLima1/login_example_2022/main/images/splash.png)
 
 - Login
+
 ![login.png](https://raw.githubusercontent.com/DiogoLima1/login_example_2022/main/images/login.png)
+
 - Forgot Password
+
 ![forgot.png](https://raw.githubusercontent.com/DiogoLima1/login_example_2022/main/images/forgot.png)
+
 - Home
-![home.png](https://raw.githubusercontent.com/DiogoLima1/login_example_2022/main/images/home.png)
-![drawer.png](https://raw.githubusercontent.com/DiogoLima1/login_example_2022/main/images/drawer.png)
+
+![home.png](https://raw.githubusercontent.com/DiogoLima1/login_example_2022/main/images/home.png)![drawer.png](https://raw.githubusercontent.com/DiogoLima1/login_example_2022/main/images/drawer.png)
+
 Was used:
 
 - cupertino_icons: ^1.0.2
